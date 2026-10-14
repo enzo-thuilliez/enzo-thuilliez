@@ -1,5 +1,7 @@
 # Enzo Thuilliez
 
-Applied AI @Amundi
+Applied AI
+
+Currently @Amundi
 
 Last updated: Oct 2026
